@@ -30,22 +30,24 @@
 ## 🏆 GitHub Stats
 
 <div align="center" margin-top="10px">
-  <img src="https://komarev.com/ghpvc/?username=faizzahell&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Faizahel Joasa" /> 
+  <img src="https://komarev.com/ghpvc/?username=faizaheljoasa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Faizahel Joasa" /> 
 </div>
 
 <br>
 
  <div align="center" margin-top="10px">
   <img height="210"  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizzahell&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Faizahel Joasa" />
-  <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=faizzahell&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="howlil" />
-  <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizzahell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=faizzahell&theme=tokyonight" alt="howlil" /> 
+  <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=faizzahell&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="Faizahel Joasa" />
+
+  <!-- <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizzahell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=faizzahell&theme=tokyonight" alt="howlil" />  -->
 </div>
 
 <br>
    
 <div align="center"  margin-top="10px">
-  <a href = "https://github.com/faizzahell/">
+  <a href = "https://github.com/faizaheljoasa/">
     <img src="https://github-profile-trophy.vercel.app/?username=faizzahell&column=-1&theme=tokyonight" />
     <br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizzahell&theme=nightowl" />
