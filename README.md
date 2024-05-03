@@ -36,21 +36,21 @@
 <br>
 
  <div align="center" margin-top="10px">
-  <img height="210"  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizzahell&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Faizahel Joasa" />
-  <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=faizzahell&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="Faizahel Joasa" />
+  <img height="210"  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaheljoasa&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Faizahel Joasa" />
+  <img height="210em"  src="https://github-readme-stats.vercel.app/api?username=faizaheljoasa&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="Faizahel Joasa" />
 
-  <!-- <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizzahell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizaheljoasa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=faizzahell&theme=tokyonight" alt="howlil" />  -->
+  <img  height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=faizaheljoasa&theme=tokyonight" alt="howlil" />  -->
 </div>
 
 <br>
    
 <div align="center"  margin-top="10px">
   <a href = "https://github.com/faizaheljoasa/">
-    <img src="https://github-profile-trophy.vercel.app/?username=faizzahell&column=-1&theme=tokyonight" />
+    <img src="https://github-profile-trophy.vercel.app/?username=faizaheljoasa&column=-1&theme=tokyonight" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizzahell&theme=nightowl" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizaheljoasa&theme=nightowl" />
     <br><br>
   </a>
 </div>
@@ -59,7 +59,7 @@
 
 <p align = "center">
   <a href="https://www.linkedin.com/in/faizahel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/faizzahell/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/faizaheljoasa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://open.spotify.com/user/z4ev34sfeu2es0va2z906y0cx " target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="mailto:faizaheljoasaariesta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
