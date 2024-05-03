@@ -36,8 +36,8 @@
 <br>
 
  <div align="center" margin-top="10px">
-  <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaheljoasa&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Faizahel Joasa" />
-  <img height="150"  src="https://github-readme-stats.vercel.app/api?username=faizaheljoasa&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="Faizahel Joasa" />
+  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizaheljoasa&theme=tokyonight&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Faizahel Joasa" />
+  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=faizaheljoasa&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="Faizahel Joasa" />
 
   <!-- <img height="210" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizaheljoasa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
